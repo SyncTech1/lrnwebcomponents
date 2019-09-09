@@ -16,6 +16,7 @@ $ git clone https://github.com/elmsln/lrnwebcomponents.git
 $ cd lrnwebcomponents
 $ yarn install
 $ yarn start
+$ abc
 ```
 
 ## Scripts
